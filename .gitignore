@@ -1,0 +1,8 @@
+ass
+project/project/
+project/target/
+target/
+.idea/
+src/main/main.iml
+src/test/test.iml
+project/META-INF/
